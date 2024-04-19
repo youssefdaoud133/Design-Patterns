@@ -1,7 +1,7 @@
 # Factory Method Pattern
 
 <p align="center">
-  <img src="../photos/Singleton pattern java example.jpg" alt="Alt text" />
+  <img src="../photos/factory-method.jpg" alt="Alt text" />
 </p>
 
 The Factory Method pattern is a creational design pattern that provides an interface for creating objects in a superclass, but allows subclasses to alter the type of objects that will be created. It encapsulates object creation logic, promoting loose coupling between client code and the created objects.
