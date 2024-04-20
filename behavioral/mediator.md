@@ -1,4 +1,7 @@
 # Mediator Design Pattern
+<p align="center">
+  <img src="../photos/How-mediator-patterns-work.webp" alt="Alt text" />
+</p>
 
 The Mediator pattern is a behavioral design pattern that defines an object that encapsulates how objects interact with each other. It promotes loose coupling by keeping objects from referring to each other explicitly and allows for complex communication between objects without them having direct references to each other.
 
