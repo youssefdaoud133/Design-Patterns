@@ -1,10 +1,8 @@
 # Design Patterns Summary
 
-<p align="center">
-<video  height="240" controls>
-  <source src="https://github.com/youssefdaoud133/Design-Patterns/assets/84157669/e657a891-aa22-4214-b153-aa5f6f54737e
-  " type="video/mp4">
-</video>
+
+ https://github.com/youssefdaoud133/Design-Patterns/assets/84157669/e657a891-aa22-4214-b153-aa5f6f54737e
+
 
 
 
