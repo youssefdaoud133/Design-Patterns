@@ -1,7 +1,7 @@
 # Design Patterns Summary
 
 <p align="center">
-  <img src="./photos//patterns-design.jpg" alt="Alt text" />
+  <img src="./photos/patterns-design.jpg" alt="Alt text" />
 </p>
 
 This repository contains summaries of 23 design patterns commonly used in software development.
