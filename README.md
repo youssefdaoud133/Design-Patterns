@@ -1,14 +1,8 @@
 # Design Patterns Summary
 
-
- https://github.com/youssefdaoud133/Design-Patterns/assets/84157669/e657a891-aa22-4214-b153-aa5f6f54737e
-
+https://github.com/youssefdaoud133/Design-Patterns/assets/84157669/ae688d7f-d55e-491b-a5cd-43c616d35b7b
 
 
-
-
-
-</p>
 
 This repository contains summaries of 23 design patterns commonly used in software development.
 
