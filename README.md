@@ -2,8 +2,14 @@
 
 <p align="center">
 <video  height="240" controls>
-  <source src="./Videos/Structure of code (1).mp4" type="video/mp4">
+  <source src="https://github.com/youssefdaoud133/Design-Patterns/assets/84157669/e657a891-aa22-4214-b153-aa5f6f54737e
+  " type="video/mp4">
 </video>
+
+
+
+
+
 </p>
 
 This repository contains summaries of 23 design patterns commonly used in software development.
