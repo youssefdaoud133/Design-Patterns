@@ -4,6 +4,10 @@ https://github.com/youssefdaoud133/Design-Patterns/assets/84157669/ae688d7f-d55e
 
 
 # SOLID Principles
+<p align="center">
+  <img src="./photos//Solidp.webp" alt="Alt text" />
+</p>
+
 Learning the SOLID principles is essential for building maintainable, scalable, and robust software systems:
 
 ## Five SOLID Principles
