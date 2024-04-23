@@ -1,7 +1,7 @@
 # Single Responsibility Principle (SRP)
 
 <p align="center">
-  <img src="../photos/srp.png" alt="Alt text" />
+  <img src="../photos/spr.webp" alt="Alt text" />
 </p>
 
 

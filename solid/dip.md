@@ -1,7 +1,7 @@
 # Dependency Inversion Principle (DIP)
 
 <p align="center">
-  <img src="../photos/dif.png" alt="Alt text" />
+  <img src="../photos/dip.webp" alt="Alt text" />
 </p>
 
 
