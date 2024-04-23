@@ -3,6 +3,22 @@
 https://github.com/youssefdaoud133/Design-Patterns/assets/84157669/ae688d7f-d55e-491b-a5cd-43c616d35b7b
 
 
+# SOLID Principles
+Learning the SOLID principles is essential for building maintainable, scalable, and robust software systems:
+
+## Five SOLID Principles
+
+- [Single Responsibility Principle (SRP)](./solid/srp.md)  
+- [Open/Closed Principle (OCP)](./solid/ocp.md)  
+- [Liskov Substitution Principle (LSP)](./solid/lsp.md)
+- [Interface Segregation Principle (ISP)](./solid/isp.md)  
+- [Dependency Inversion Principle (DIP)](./solid/dip.md)   
+
+
+
+
+
+
 
 This repository contains summaries of 23 design patterns commonly used in software development.
 
