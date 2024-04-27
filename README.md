@@ -60,4 +60,4 @@ This repository contains summaries of 23 design patterns commonly used in softwa
 
 Each pattern summary is available in its respective Markdown file in this repository. Click on the pattern name to view its summary.
 
-Feel free to explore, contribute, or provide feedback!
+Feel free to explore, contribute, or provide feedback! Edit
