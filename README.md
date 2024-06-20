@@ -28,16 +28,16 @@ This repository contains summaries of 23 design patterns commonly used in softwa
 
 ## Creational Patterns
 
-- [Factory Method](./creational/factory_method.md)  <span style="color:green;">Done</span>
-- [Abstract Factory](./creational/abstract_factory.md)   <span style="color:green;">Done</span>
-- [Builder](./creational/builder.md)  <span style="color:green;">Done</span>
-- [Prototype](./creational/prototype.md)  <span style="color:green;">Done</span>
-- [Singleton](./creational/singleton.md)   <span style="color:green;">Done</span>
+- [Factory Method](./creational/factory_method.md)   
+- [Abstract Factory](./creational/abstract_factory.md)    
+- [Builder](./creational/builder.md)   
+- [Prototype](./creational/prototype.md)   
+- [Singleton](./creational/singleton.md)    
 
 ## Structural Patterns
 
-- [Adapter](./structural/adapter.md)   <span style="color:green;">Done</span>
-- [Bridge](./structural/bridge.md)  <span style="color:green;">Done</span>
+- [Adapter](./structural/adapter.md)    
+- [Bridge](./structural/bridge.md)   
 - [Composite](./structural/composite.md)
 - [Decorator](./structural/decorator.md)
 - [Facade](./structural/facade.md)
@@ -46,17 +46,17 @@ This repository contains summaries of 23 design patterns commonly used in softwa
 
 ## Behavioral Patterns
 
-- [Chain of Responsibility](./behavioral/chain_of_responsibility.md)  <span style="color:green;">Done</span>
-- [Command](./behavioral/command.md)  <span style="color:green;">Done</span>
+- [Chain of Responsibility](./behavioral/chain_of_responsibility.md)   
+- [Command](./behavioral/command.md)   
 - [Interpreter](./behavioral/interpreter.md)  
-- [Iterator](./behavioral/iterator.md)  <span style="color:green;">Done</span>
-- [Mediator](./behavioral/mediator.md)  <span style="color:green;">Done</span>
-- [Memento](./behavioral/memento.md)  <span style="color:green;">Done</span>
-- [Observer](./behavioral/observer.md)  <span style="color:green;">Done</span>
-- [State](./behavioral/state.md)  <span style="color:green;">Done</span>
-- [Strategy](./behavioral/strategy.md)  <span style="color:green;">Done</span>
-- [Template Method](./behavioral/template_method.md)  <span style="color:green;">Done</span>
-- [Visitor](./behavioral/visitor.md)  <span style="color:green;">Done</span>
+- [Iterator](./behavioral/iterator.md)   
+- [Mediator](./behavioral/mediator.md)   
+- [Memento](./behavioral/memento.md)   
+- [Observer](./behavioral/observer.md)   
+- [State](./behavioral/state.md)   
+- [Strategy](./behavioral/strategy.md)   
+- [Template Method](./behavioral/template_method.md)   
+- [Visitor](./behavioral/visitor.md)   
 
 Each pattern summary is available in its respective Markdown file in this repository. Click on the pattern name to view its summary.
 
